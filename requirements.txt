@@ -1,0 +1,10 @@
+To create the program that will perform hand tracking, we will need two Python libraries. These are openCV and MediaPipe.
+
+
+open cmd in your computer first of all you'll check that if python is installed on your pc
+
+TYPE IN CMD
+
+pip install mediapipe
+
+pip install opencv-python
